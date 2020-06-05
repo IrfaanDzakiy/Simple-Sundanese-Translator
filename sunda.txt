@@ -1,6 +1,5 @@
 aang = kakak
 abah = bapak
-abdi = saya
 abot = berat
 acan = belum
 acuk = pakaian
